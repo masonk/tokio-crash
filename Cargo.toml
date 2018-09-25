@@ -1,0 +1,9 @@
+[package]
+name = "tokio-crash"
+version = "0.1.0"
+authors = ["Mason Kramer <mason.kramer@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "*"
+ldap3 = "*"
